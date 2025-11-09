@@ -36,3 +36,5 @@ pip install -r requirements.txt
 streamlit run stock_app.py
 
 Then open 👉 http://localhost:8501
+
+WEB APP : https://stockvisions.streamlit.app/
