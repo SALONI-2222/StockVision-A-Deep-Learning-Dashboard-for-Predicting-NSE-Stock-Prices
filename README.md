@@ -33,6 +33,6 @@ source venv/bin/activate
 ### 3️⃣ Install Requirements
 pip install -r requirements.txt
 ### 4️⃣ Run the App
-streamlit run main.py
+streamlit run stock_app.py
 
 Then open 👉 http://localhost:8501
